@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Missile
+  - Panel
+  - Panel1
+  - Panel2
+  - Terrain
+  - MainPicture
+  - Character
+  - Character1
+  - Panel3
+  - Character2
+  - Player2
+  - PicturePart
+  - AnimParts
+  - Floor
+  - Candle
+  - cPanel
+  - Pause
+  - changeColor
+  - patternOnClock
+  - blocks
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - nolight
+  - nolioght2
+  - Character1
+  - opacwo
+  - player
+  - Missile
+  - IgnoreMissile
+  - blue
+  - orange
+  - green
+  - noCollisionWithMissile
+  - test
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Part
+    uniqueID: 3556032799
+    locked: 0

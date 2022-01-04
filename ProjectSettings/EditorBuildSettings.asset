@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: daacfad3db2cb594595895140d251b1a
+  - enabled: 1
+    path: Assets/Scenes/Zamek-pocz.unity
+    guid: c23dc98713a14454ba7edf68f5caec67
+  - enabled: 1
+    path: Assets/Scenes/Muzeum.unity
+    guid: 843e430d2225e094fa1ef3144dbc8cd9
+  - enabled: 1
+    path: Assets/Scenes/Opactwo.unity
+    guid: 8c6186cc2e5ea38429b554a0f8028122
+  - enabled: 1
+    path: Assets/Scenes/Trwalosc.unity
+    guid: e52b3d19315657544b14e0ef8d5b3765
+  - enabled: 1
+    path: Assets/Scenes/Pokoj.unity
+    guid: cfe4040d624efd1499a8ad255a6e03c3
+  - enabled: 1
+    path: Assets/Scenes/EndingPart1.unity
+    guid: 8ba791932b919fb438816643296e8706
+  - enabled: 1
+    path: Assets/Scenes/EndingPart2.unity
+    guid: ffe7b0b082405524683d3637a2a1869c
+  - enabled: 1
+    path: Assets/Scenes/Zamek-koniec.unity
+    guid: 82bb00d975766ca45a07fc99b8c92617
+  m_configObjects: {}
