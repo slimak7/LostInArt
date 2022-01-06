@@ -1,4 +1,4 @@
-# LostInArt
+# Lost In Art
 Winning game in Game Design category in ZTGK competition 2018
 
 By accident Your painting, Your world in museum, has been broken into small pieces. Travel through other paintings and solve puzzles to collect all pieces and get back home!
